@@ -8,7 +8,7 @@
 #include <string.h>
 #include <sys/types.h>
 #include <time.h>
-
+/* comment */
 SOCKET s; //Socket handle
 
 int main(int argc, char **argv)
